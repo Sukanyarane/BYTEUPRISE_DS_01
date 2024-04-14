@@ -1,3 +1,3 @@
 # BYTEUPRISE_DS_01
 
-PowerBI Dashboard
+Task 1 of ByteUprise Data Science Intership program
